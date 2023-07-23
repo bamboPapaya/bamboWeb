@@ -71,9 +71,9 @@ footer {
 </head>
 <body>
 
-<h2>Bambo Papaya Concept</h2>
-<p>In this example, we have created a header, two columns/boxes and a footer. On smaller screens, the columns will stack on top of each other.</p>
-<p>Resize the browser window to see the responsive effect (you will learn more about this in our next chapter - HTML Responsive.)</p>
+<h2>Welcome to our City Breifing Page</h2>
+<p>Our simple example will help us work on the cities in the southern african area of africa where we have 3 cities that we have proposed to work with</p>
+<p>These are the cities that we have opted to work with:</p>
 
 <header>
   <h2>Cities</h2>
@@ -90,8 +90,8 @@ footer {
   
   <article>
     <h1>Harare</h1>
-    <p></p>
-    <p>The City of Harare</p>
+    <h1>Lusaka</h1><h1>Gaborone</h1>
+  
   </article>
 </section>
 

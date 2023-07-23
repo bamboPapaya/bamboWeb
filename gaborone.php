@@ -82,16 +82,16 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="london.php">London</a></li>
-      <li><a href="paris.php">Paris</a></li>
-      <li><a href="tokyo.php">Tokyo</a></li>
+      <li><a href="harare.php">Harare</a></li>
+      <li><a href="lusaka.php">Lusaka</a></li>
+      <li><a href="gaborone.php">Gaborone</a></li>
     </ul>
   </nav>
   
   <article>
-    <h1>London</h1>
-    <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+    <h1>Gaborone</h1>
+    <p></p>
+    <p>The City of Gaborone</p>
   </article>
 </section>
 
@@ -101,4 +101,3 @@ footer {
 
 </body>
 </html>
-
